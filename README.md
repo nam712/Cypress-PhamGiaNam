@@ -22,14 +22,14 @@ npm install cypress --save-dev
 npx cypress open
 ```
 ## Cấu trúc thư mục kiểm thử
-
+```
 cypress-exercise/
 └── cypress/
      └── e2e/
          ├── login_spec.cy.js     # Kiểm thử đăng nhập
          ├── cart_spec.cy.js      # Kiểm thử giỏ hàng (thêm, xóa sản phẩm, sắp xếp sản phẩm theo giá tăng dần) 
          └── checkout_spec.cy.js  # kiểm thử kiểm tra quy trình thanh toán
-
+```
 ## Video chạy kiểm thử
 
 [Xem video demo](./demo/demo_test_cypress.mp4)
