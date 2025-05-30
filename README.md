@@ -32,4 +32,4 @@ cypress-exercise/
 ```
 ## Video chạy kiểm thử
 
-[Xem video demo](./demo/demo_test_cypress.mp4)
+[Xem video demo](./demo/demo_cypress.mp4)
